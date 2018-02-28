@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
+url: https://liuxiong21.github.io
 date_format: "ordinal"
 title: 码志
 subtitle: "打码改变人生"
@@ -77,7 +77,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: liuxiong21/liuxiong21.github.io
 
 # ---------------- #
 #      Comments    #
