@@ -5,8 +5,8 @@ baseurl:
 url: https://liuxiong21.github.io
 date_format: "ordinal"
 title: CodeMinner
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
+subtitle: "专注于Java底层及开源项目"
+description: "刘雄的个人博客"
 keywords: 代码旷工, Xiong Liu, CodeMinner
 timezone: Asia/Shanghai
 encoding: "utf-8"

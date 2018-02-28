@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 专注于Java底层及开源项目
+keywords: Xiong Liu, 刘雄
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
-
 仰慕「优雅编码的艺术」。
+
+不断追求技术的深度和宽度，坚信能编码到70岁。
 
 坚信熟能生巧，努力改变人生。
 

@@ -4,16 +4,9 @@
       - C++
       - Python
       - Design Patterns
+      - Go
+      - Javascript
 
-- name: Mobile Developer Keywords
+- name: Open Source
   keywords:
-      - Android
-      - Reverse Engineering
-
-- name: Windows Developer Keywords
-  keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+      - 暂无
