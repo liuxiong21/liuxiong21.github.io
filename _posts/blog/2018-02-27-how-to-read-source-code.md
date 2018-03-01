@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 怎样阅读一个大型项目的源代码
-categories: GitHub
+categories: 编程
 description: 怎样阅读一个大型项目的源代码如springframework
 keywords: 阅读源代码, springframework
 ---
