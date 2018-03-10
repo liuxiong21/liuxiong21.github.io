@@ -63,4 +63,4 @@ JdbcSqlStat类部分代码
 大家考虑下在Netty这种系统里面会有大量的并发连接，而每一个并发连接都需要创建一个Channel,每一个Channel对应一个 ChannelPipeline，而一个ChannelPipeline对应由多个ChannelHandlerContext组成的链。这个时候就会有大量的ChannelHandlerContext实例存在，并且是长时间存活着的对象。这个时候使用AtomicXXFieldUpdater就比AtomicXX合适了。
 
 ## 为什么
-因为这里多创建了一个AtomicXX对象，而在64位平台上每一个对象要花费16个Byte，如果这个数量特别大内存消耗可不小。
+因为这里多创建了一个AtomicXX对象，而在64位平台上每创建一个对象至少要花费16个Byte，如果这个数量特别大内存消耗可不小。
